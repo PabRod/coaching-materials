@@ -6,7 +6,7 @@
 	- These are reference guides. No need to read through them
 2. Programming paradigms
 	- Programming across paradigms. [Talk](https://www.youtube.com/watch?v=Pg3UeB-5FdA) and [slides](https://files.gotocon.com/uploads/slides/conference_3/78/original/Programming%20across%20Paradigms.pdf). Up to minute 23, really great intro. The rest is optional
-	- ~~[Programming Paradigms – Paradigm Examples for Beginners](https://www.freecodecamp.org/news/an-introduction-to-programming-paradigms/)~~ Not very good, according to [[Lourens Veen]].
+	- ~~[Programming Paradigms – Paradigm Examples for Beginners](https://www.freecodecamp.org/news/an-introduction-to-programming-paradigms/)~~ Not very good, according to Lourens.
 	- ~~[Introduction](https://www.youtube.com/watch?v=Ps8jOj7diA0) to programming paradigms course.~~ Not great either
 3. Data structures and algorithms
 	- Data structure, Algorithms, basics of sorting & searching, freeCodeCamp.org [Course](https://www.youtube.com/watch?v=8hly31xKli0&t=854s). See first comment and use it to browse to the interesting parts
